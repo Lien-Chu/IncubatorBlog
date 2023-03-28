@@ -5,7 +5,7 @@ linktitle: Creating a Hello World Application by Using the ASP.NET Core!
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a Hello World Application by Using the ASP.NET Core!
-image: "/images/home-bg.jpg"
+image: "/IncubatorBlog.io/images/home-bg.jpg"
 weight: 10
 ---
 
