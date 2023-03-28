@@ -1,4 +1,19 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lien-chu.github.io/IncubatorBlog.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '.Net Programmer Incubator'
 theme = "arabica"
+subtitle = "A blog about .Net programming"
+paginate = 5
+disqusShortname = "dotnetprogrammerincubator"
+
+[params]
+  author = "Vicky"
+  description = "A blog about .Net programming"
+  keywords = ["dotnet", "programming", "blog"]
+  twitter = "dotnetprogrammer"
+  github = "dotnetprogrammer"
+  linkedin = "dotnetprogrammer"
+  facebook = "dotnetprogrammer"
+
+
+
