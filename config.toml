@@ -7,13 +7,14 @@ paginate = 5
 disqusShortname = "dotnetprogrammerincubator"
 
 [params]
+  rss = "index.xml"
   author = "Vicky"
   description = "A blog about .Net programming"
   keywords = ["dotnet", "programming", "blog"]
-  twitter = "dotnetprogrammer"
-  github = "dotnetprogrammer"
-  linkedin = "dotnetprogrammer"
-  facebook = "dotnetprogrammer"
+  twitter = ""
+  github = ""
+  linkedin = ""
+  facebook = ""
 
 
 
