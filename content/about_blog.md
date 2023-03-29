@@ -53,7 +53,7 @@ Join the .NET community to connect with other developers, learn from their exper
 
 ---
 # ABOUT ME
-{{< figure src="/IncubatorBlog.io/images/avatar.jpg" height="400">}}
+{{< figure src="/IncubatorBlog.io/images/avatar.jpg" height="300">}}
 
 
 I'm a friendly person who loves checking out cool stuff, making new buddies, and hanging out with people. I'm always eager to learn new things and share my knowledge with others. I'm also a big fan of the outdoors and love to go hiking, and exploring new places.

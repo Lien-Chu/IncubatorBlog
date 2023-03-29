@@ -1,6 +1,6 @@
 +++
 title = "Getting Started"
-description = "The first step to getting started with .Net."
+description = "The first step to getting started with Asp.Net."
 tags = [  
     "C#",
     "Visual Studio",
@@ -11,11 +11,10 @@ categories = [
     "Tutorials"
 ]
 image = "https://images.pexels.com/photos/7105/coffee-iphone-laptop-notebook.jpg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-menu = "main"
 weight = "40"
 +++
 
-## Install Visual Studio
+## Install Visual Studio:
 
 Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
 
