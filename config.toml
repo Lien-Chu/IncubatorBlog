@@ -14,18 +14,10 @@ disqusShortname = "dotnetprogrammerincubator"
     url = "/post/"
     weight = 2
 
-    [[menu.main]]
-    identifier = "About"
-    name = "About"
-    url = "/about/"
-     weight = 3
-
 [params]
   author = "Vicky Kulumanga"
   SEOTitle = "It's a place to learning .Net | Incubator Blog"
   description = "Let us grow together"
-  keyword = ".Net Framework, vickykulumanga, Incubator Blog, Asp.Net Core MVC, C#, Visual Studio "
-  slogan = "Programmer Incubator Blog"
 
 
 [params.social]

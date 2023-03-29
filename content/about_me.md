@@ -1,8 +1,7 @@
 +++
 title = "About me"
 date = "2023-03-28"
-menu = "main"
-weight = "20"
+weight = "50"
 +++
 ---
 {{< figure src="/IncubatorBlog.io/images/avatar.jpg" height="400">}}

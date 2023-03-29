@@ -2,14 +2,14 @@
 title = "About Blog"
 date = "2023-03-28"
 weight = "10"
-menu = "about"
+menu = "main"
 +++
 
 ![Blog](https://images.pexels.com/photos/6469/red-hands-woman-creative.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 
-## I hope that by writing a blog, I can better understand the technologies and application methods of .NET and share them with you.
+## By writing a blog, I can better understand the technologies and application methods of .NET and share them with you.
 
 This is a great plan! Here are some steps you can follow to start your journey in learning .NET and building web apps with ASP.NET Core:
 
