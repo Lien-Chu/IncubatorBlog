@@ -1,7 +1,8 @@
 +++
 title = "About Blog"
 date = "2023-03-28"
-menu = "main"
+weight = "10"
+menu = "about"
 +++
 
 ![Blog](https://images.pexels.com/photos/6469/red-hands-woman-creative.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
@@ -18,7 +19,21 @@ Visual Studio is an integrated development  environment (IDE) used for .NET deve
 
 **2. Learn C#:** 
 
-C# is a programming language used for .NET development. It is similar to other programming languages like Java and C++. You can start learning C# by going through the Microsoft C# documentation or by following online courses on websites like Pluralsight, Udemy, or Codecademy.
+C# is a programming language used for .NET development. 
+
+There are plenty of free resources available online to learn C# programming language. Here are a few resources to get you started:
+
+- [**Microsoft C# Documentation:**](https://learn.microsoft.com/en-us/dotnet/csharp/) Microsoft's official documentation is an excellent resource for learning C# programming language. It's free, and it covers everything from basic syntax to advanced topics.
+
+- [**Codecademy:**](https://www.codecademy.com/resources/docs/c-sharp) Codecademy offers a free interactive course on C# programming language. The course is divided into sections and includes exercises to help you practice what you learn.
+
+- [**W3Schools:**](https://www.w3schools.com/cs/index.php) W3Schools provides a free online tutorial on C# programming language. It covers basic syntax, data types, arrays, loops, and more.
+
+- [**SoloLearn:**](https://www.sololearn.com/learn/languages/c-sharp) SoloLearn is a free mobile app that teaches various programming languages, including C#. The app includes interactive lessons, quizzes, and coding challenges.
+
+- [**YouTube:**](https://www.youtube.com/results?search_query=c%23+tutorial+for+beginners) YouTube has several free C# programming language tutorials. These tutorials are usually created by developers and cover a wide range of topics.
+
+- [**GitHub:**](https://github.com/search?q=csharp+tutorial&type=) GitHub has a vast repository of C# programming language projects. You can browse through the projects, learn from the code, and even contribute to the projects.
 
 **3. Learn ASP.NET Core:** 
 

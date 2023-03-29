@@ -12,6 +12,7 @@ categories = [
 ]
 image = "https://images.pexels.com/photos/7105/coffee-iphone-laptop-notebook.jpg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
 menu = "main"
+weight = "40"
 +++
 
 ## Install Visual Studio

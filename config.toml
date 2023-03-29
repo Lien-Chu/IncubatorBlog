@@ -6,15 +6,48 @@ subtitle = "A blog about .Net programming"
 paginate = 5
 disqusShortname = "dotnetprogrammerincubator"
 
+[menu]
+
+  [[menu.main]]
+  identifier = "All Posts"
+    name = "All Posts"
+    url = "/post/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+     weight = 3
+
 [params]
-  rss = "index.xml"
-  author = "Vicky"
-  description = "A blog about .Net programming"
-  keywords = ["dotnet", "programming", "blog"]
-  twitter = ""
-  github = ""
-  linkedin = ""
-  facebook = ""
+  author = "Vicky Kulumanga"
+  SEOTitle = "It's a place to learning .Net | Incubator Blog"
+  description = "Let us grow together"
+  keyword = ".Net Framework, vickykulumanga, Incubator Blog, Asp.Net Core MVC, C#, Visual Studio "
+  slogan = "Programmer Incubator Blog"
+
+
+[params.social]
+  rss            = ""
+  email          = ""
+  #facebook      = ""
+  #googleplus    = ""
+  #twitter       = ""
+  linkedin       = ""
+  stackoverflow  = ""
+  #instagram     = ""
+  github         = ""
+  wechat         = ""
+  #medium        = ""
+  #slack         = ""
+  #pinterest     = ""
+  #reddit        = ""
+  #gitlab        = ""
+  #mastodon      = ""
+  #keybase       = ""
+  #xing          = ""
+  #git           = ""
 
 
 
