@@ -21,7 +21,7 @@ disqusShortname = "dotnetprogrammerincubator"
 
 
 [params.social]
-  rss            = ""
+  rss            = "false"
   email          = ""
   #facebook      = ""
   #googleplus    = ""

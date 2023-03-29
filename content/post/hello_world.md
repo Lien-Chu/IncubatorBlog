@@ -11,7 +11,7 @@ date = "2023-03-28"
 categories = [
     "Tutorials"
 ]
-image = "https://images.pexels.com/photos/2549944/pexels-photo-2549944.jpeg?auto=compress&cs=tinysrgb&w=1600"
+image = "https://images.pexels.com/photos/7748961/pexels-photo-7748961.jpeg?auto=compress&cs=tinysrgb&w=800"
 weight = "30"
 +++
 

@@ -5,7 +5,7 @@ weight = "10"
 menu = "main"
 +++
 
-![Blog](https://images.pexels.com/photos/6469/red-hands-woman-creative.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Blog](https://images.pexels.com/photos/163138/home-laptop-tablet-lifestyle-163138.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 
 
@@ -52,13 +52,13 @@ Debugging and troubleshooting are important skills for any developer. Learn how 
 Join the .NET community to connect with other developers, learn from their experiences, and stay up-to-date with the latest trends and developments in the .NET world. You can join online forums, attend local meetups, or participate in online communities like Stack Overflow.
 
 ---
-# ABOUT ME
+## ABOUT ME
 {{< figure src="/IncubatorBlog.io/images/avatar.jpg" height="300">}}
 
 
-I'm a friendly person who loves checking out cool stuff, making new buddies, and hanging out with people. I'm always eager to learn new things and share my knowledge with others. I'm also a big fan of the outdoors and love to go hiking, and exploring new places.
+*I'm a friendly person who loves checking out cool stuff, making new buddies, and hanging out with people. I'm always eager to learn new things and share my knowledge with others. I'm also a big fan of the outdoors and love to go hiking, and exploring new places.*
 
 
-I pick up new things quickly and have a knack for logical thinking. I'm super curious and love to dive deep into things. When faced with tough challenges, I'm not afraid to roll up my sleeves and get to work with a practical approach.
+*I pick up new things quickly and have a knack for logical thinking. I'm super curious and love to dive deep into things. When faced with tough challenges, I'm not afraid to roll up my sleeves and get to work with a practical approach.*
 
-Despite the setbacks in life, I hope everyone to live life to the fullest and be happy every single day.
+*Despite the setbacks in life, I hope everyone to live life to the fullest and be happy every single day.*
