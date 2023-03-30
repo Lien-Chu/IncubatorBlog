@@ -5,9 +5,9 @@ weight = "10"
 menu = "main"
 +++
 
-![Blog](https://images.pexels.com/photos/163138/home-laptop-tablet-lifestyle-163138.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 
+![Windows Start menu](/IncubatorBlog.io/images/home-bg.jpg)
 
 ## By writing a blog, I can better understand the technologies and application methods of .NET and share them with you.
 
