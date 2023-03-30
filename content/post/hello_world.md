@@ -37,4 +37,6 @@ weight = "30"
 ![New Project](/IncubatorBlog.io/images/hello_world/hello_world_browser.png)
 
 
-Congratulations, you have created your first application in Asp.Net Core. ;)
+**Congratulations, you have created your first application in Asp.Net Core. ;)**
+
+---
