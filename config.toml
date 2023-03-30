@@ -3,8 +3,9 @@ languageCode = 'en-us'
 title = '.Net Programmer Incubator'
 theme = "arabica"
 subtitle = "A blog about .Net programming"
-paginate = 5
+paginate = 3
 disqusShortname = "dotnetprogrammerincubator"
+hasCJKLanguage = true
 
 [menu]
 
@@ -18,8 +19,7 @@ disqusShortname = "dotnetprogrammerincubator"
   author = "Vicky Kulumanga"
   SEOTitle = "It's a place to learning .Net | Incubator Blog"
   description = "Let us grow together"
-
-
+  
 [params.social]
   rss            = "false"
   email          = ""
@@ -40,6 +40,5 @@ disqusShortname = "dotnetprogrammerincubator"
   #keybase       = ""
   #xing          = ""
   #git           = ""
-
 
 
