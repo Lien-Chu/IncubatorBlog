@@ -2,8 +2,8 @@
 date: 2023-03-28
 linktitle: Getting Started
 description : The first step to getting started with Asp.Net.
-next: 
-prev: /post/Hello_world
+next: /post/Hello_world
+prev: 
 tags : [  
     "C#",
     "Visual Studio",

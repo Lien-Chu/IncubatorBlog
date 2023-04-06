@@ -1,17 +1,17 @@
-+++
-title = "Register form"
-description = "Create a custom signup form!"
-
-tags = [  
-    "Register",
-    "Login",
-    "Asp.Net",
-    "Code First"
+---
+date: 2023-04-04
+linktitle: Create a custom signup form
+description : Create a custom signup form
+next: /post/change_database
+prev: /post/Hello_World
+tags : [  
+    "Register form",
+    ".Net",
+    "Asp.Net"
 ]
-date = "2023-04-04"
-image = "https://images.pexels.com/photos/136348/pexels-photo-136348.jpeg?auto=compress&cs=tinysrgb&w=800"
-+++
-
+title: Register form
+image: "https://images.pexels.com/photos/136348/pexels-photo-136348.jpeg?auto=compress&cs=tinysrgb&w=800"
+---
 
 In this article, we will create a custom registration form and add it to the application.
 
@@ -85,7 +85,7 @@ PM> Update-Database
 ![run_application](/IncubatorBlog.io/images/register/confirm_email.png)
 
 
-**Congratulations, you have created a custom signup form &nbsp; &nbsp;  ;)**
+##### Congratulations, you have created a custom signup form &nbsp; &nbsp;  ;)
 
 ---
 
