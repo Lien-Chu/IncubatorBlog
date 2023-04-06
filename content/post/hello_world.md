@@ -12,7 +12,7 @@ image = "https://images.pexels.com/photos/7748961/pexels-photo-7748961.jpeg?auto
 weight = "30"
 +++
 
-## Let's Create our first project in [Asp.Net Core MVC](/asp.net_MVC.md):
+### Let's Create our first project in [Asp.Net Core MVC](/asp.net_MVC.md):
 
 - Open Visual Studio and click on "Create a new project" from the start menu.
 ![New Project](/IncubatorBlog.io/images/hello_world/create_a_new_project.png)
