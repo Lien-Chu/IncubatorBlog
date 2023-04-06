@@ -2,8 +2,8 @@
 date: 2023-04-06
 linktitle: bootswatch
 description : bootswatch
-next: /post/register
-prev: /post/getting_started
+next: 
+prev: /post/chabge_database
 tags : [  
     "Style",
     "Bootswatch",
@@ -11,8 +11,13 @@ tags : [
     "Asp.Net"
 ]
 title: Let's style up our appliction with Bootswatch!
-image: "https://images.pexels.com/photos/994234/pexels-photo-994234.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/8387825/pexels-photo-8387825.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
+Bootswatch is a free collection of Bootstrap themes that offers a variety of easy-to-use and customizable themes for quickly adding visual style to Bootstrap websites or applications. 
+
+Each theme comes with a CSS file and optional JavaScript files for convenience and customization. 
+
+Bootswatch is a great way to add style and visual appeal to Bootstrap projects without spending a lot of time designing and coding from scratch.
 
 Now that we have our application up and running, let's style it up with Bootswatch!
 
