@@ -1,18 +1,20 @@
-+++
-title = "Getting Started"
-description = "The first step to getting started with Asp.Net."
-tags = [  
+---
+date: 2023-03-28
+linktitle: Getting Started
+description : The first step to getting started with Asp.Net.
+next: 
+prev: /post/Hello_world
+tags : [  
     "C#",
     "Visual Studio",
     "getting started"
 ]
-date = "2023-03-28"
+title: Getting Started
+image: "https://images.pexels.com/photos/7105/coffee-iphone-laptop-notebook.jpg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+---
+Visual Studio is an intuitive and feature-rich Integrated Development Environment (IDE) that supports ASP.NET Core development on multiple platforms. It offers powerful debugging tools, advanced code completion, and navigation features, and seamless integration with Microsoft's cloud platform, Azure. As a result, it greatly simplifies the development of ASP.NET Core applications, making it a popular choice among developers.
 
-image = "https://images.pexels.com/photos/7105/coffee-iphone-laptop-notebook.jpg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-weight = "40"
-+++
-
-## Install Visual Studio:
+##### Install Visual Studio:
 
 Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
 

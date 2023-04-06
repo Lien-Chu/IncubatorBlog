@@ -8,14 +8,14 @@ tags : [
     "C#",
 ]
 title: ASP.NET MVC?
-image: "https://images.pexels.com/photos/3137068/pexels-photo-3137068.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/2395253/pexels-photo-2395253.jpeg?auto=compress&cs=tinysrgb&w=900"
 ---
 
-#### ASP.NET Core is a web framework that can be used to build web applications and services. 
+##### ASP.NET Core is a web framework that can be used to build web applications and services. 
 
 It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
 
-#### On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. 
+##### On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. 
 
 The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).
 
@@ -25,7 +25,7 @@ So, in simple terms, ASP.NET Core provides the underlying infrastructure for bui
 
 
 
-## What features that ASP.NET Core MVC can provide?
+### What features that ASP.NET Core MVC can provide?
 
 <br /><br />
 

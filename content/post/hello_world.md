@@ -1,18 +1,23 @@
-+++
-title = "My First Appliction in Asp.Net Core MVC"
-description = "Hello World!"
-tags = [  
+---
+date: 2023-03-28
+linktitle: My First Appliction in Asp.Net Core MVC
+description : Hello World!
+next: /post/register_and_login
+prev: /post/getting_started
+tags : [  
     "C#",
     "Visual Studio",
     ".Net",
     "Asp.Net"
 ]
-date = "2023-03-28"
-image = "https://images.pexels.com/photos/7748961/pexels-photo-7748961.jpeg?auto=compress&cs=tinysrgb&w=800"
-weight = "30"
-+++
+title: Hello World!
+image: "https://images.pexels.com/photos/7748961/pexels-photo-7748961.jpeg?auto=compress&cs=tinysrgb&w=800"
+---
 
-### Let's Create our first project in [Asp.Net Core MVC](/asp.net_MVC.md):
+
+In this article, we will create our first application in Asp.Net Core MVC.
+
+##### Let's Create our first project in Asp.Net Core MVC:
 
 - Open Visual Studio and click on "Create a new project" from the start menu.
 ![New Project](/IncubatorBlog.io/images/hello_world/create_a_new_project.png)

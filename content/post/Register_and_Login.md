@@ -1,5 +1,5 @@
 +++
-title = "Register and Login"
+title = "Register form"
 description = "Create a custom signup form!"
 
 tags = [  
@@ -12,7 +12,11 @@ date = "2023-04-04"
 image = "https://images.pexels.com/photos/136348/pexels-photo-136348.jpeg?auto=compress&cs=tinysrgb&w=800"
 +++
 
-### Let's Create a database first register form:
+
+In this article, we will create a custom registration form and add it to the application.
+
+
+##### Let's Create a database first register form:
 
 - Right-click on "Models" and move the mouse to the "Add" button, then a new window with many options appears, click "class...".
 ![New Class](/IncubatorBlog.io/images/register/add_new_class.png)
@@ -71,7 +75,7 @@ PM> Update-Database
 ![Edit Register](/IncubatorBlog.io/images/register/register_form-1.png)
 ![Edit Register](/IncubatorBlog.io/images/register/register_form-2.png)
 
-- before we run the application and see the result, let' updete database again.
+- Before we run the application and see the result, let's update the database again.
 ![update-database](/IncubatorBlog.io/images/register/update_database_.png)
 
 - Let's run the application and see the result again.
