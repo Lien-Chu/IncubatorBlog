@@ -6,8 +6,8 @@ next: /post/change_database
 prev: /post/Hello_World
 tags : [  
     "Register form",
-    ".Net",
-    "Asp.Net"
+    "ASP.NET Core MVC",
+    "Login"
 ]
 title: Register form
 image: "https://images.pexels.com/photos/136348/pexels-photo-136348.jpeg?auto=compress&cs=tinysrgb&w=800"

@@ -8,7 +8,8 @@ tags : [
     "Style",
     "Bootswatch",
     ".Net",
-    "Asp.Net"
+    "Asp.Net",
+    "Tips"
 ]
 title: Let's style up our appliction with Bootswatch!
 image: "https://images.pexels.com/photos/8387825/pexels-photo-8387825.jpeg?auto=compress&cs=tinysrgb&w=800"

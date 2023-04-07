@@ -2,10 +2,11 @@
 date: 2023-04-06
 linktitle: Change Database
 next: 
-prev: /post/register_and_login
+prev: /post/register
 tags : [   
-    "Asp.net core",
-    "Database"
+    "ASP.NET Core MVC",
+    "Database",
+    "Tips"
 ]
 title: Change Database
 image: "https://images.pexels.com/photos/3137068/pexels-photo-3137068.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -38,7 +39,7 @@ PM> Update-Database
 *Please be aware that if there is a password included in your connection string, you may need to manually re-enter the password after copying and pasting the string.*
 
 
-**Congratulations, you have Changed database &nbsp; &nbsp;  ;)**
+##### Congratulations, you have Changed database &nbsp; &nbsp;  ;)
 
 ---
 

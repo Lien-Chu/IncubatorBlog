@@ -6,6 +6,7 @@ prev:
 tags : [   
     "ASP.NET Core MVC",
     "C#",
+    "Tips"
 ]
 title: ASP.NET MVC?
 image: "https://images.pexels.com/photos/2395253/pexels-photo-2395253.jpeg?auto=compress&cs=tinysrgb&w=900"

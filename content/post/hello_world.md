@@ -2,13 +2,11 @@
 date: 2023-03-28
 linktitle: My First Appliction in Asp.Net Core MVC
 description : Hello World!
-next: /post/register_and_login
+next: /post/register
 prev: /post/getting_started
 tags : [  
-    "C#",
-    "Visual Studio",
-    ".Net",
-    "Asp.Net"
+    "ASP.NET Core MVC",
+    "Hello World"
 ]
 title: Hello World!
 image: "https://images.pexels.com/photos/7748961/pexels-photo-7748961.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -41,6 +39,6 @@ In this article, we will create our first application in Asp.Net Core MVC.
 ![New Project](/IncubatorBlog.io/images/hello_world/hello_world_browser.png)
 
 
-**Congratulations, you have created your first application in Asp.Net Core.&nbsp; &nbsp;  ;)**
+##### Congratulations, you have created your first application in Asp.Net Core.&nbsp; &nbsp;  ;)
 
 ---

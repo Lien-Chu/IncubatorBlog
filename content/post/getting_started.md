@@ -44,6 +44,6 @@ Once the download is complete, run the installer and follow the instructions to 
 ![asp-net-web-dev](/IncubatorBlog.io/images/getting_started/select1.png)
 ![asp-net-web-dev](/IncubatorBlog.io/images/getting_started/select2.png)
 
-**And now we are ready to start creating our first application in Asp.Net Core. &nbsp; &nbsp; ;)**
+##### And now we are ready to start creating our first application in Asp.Net Core. &nbsp; &nbsp; ;)
 
 ---
