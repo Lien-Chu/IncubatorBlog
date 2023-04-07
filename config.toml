@@ -34,7 +34,7 @@ hasCJKLanguage = true
   
   
 [params.social]
-  rss            = "false"
+  rss            = ""
   email          = ""
   #facebook      = ""
   #googleplus    = ""
@@ -42,7 +42,7 @@ hasCJKLanguage = true
   linkedin       = ""
   stackoverflow  = ""
   #instagram     = ""
-  github         = ""
+  github         = "https://github.com/Lien-Chu"
   wechat         = ""
   #medium        = ""
   #slack         = ""
