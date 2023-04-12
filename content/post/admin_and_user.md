@@ -7,7 +7,7 @@ tags : [
     "ASP.NET CORE MVC"
 ]
 title: Create Admin & User Role 
-image: "https://images.pexels.com/photos/1033142/pexels-photo-1033142.jpeg?auto=compress&cs=tinysrgb&w=900"
+image: "https://images.pexels.com/photos/8349186/pexels-photo-8349186.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 ##### What are the Admin and User roles in ASP.NET used for? 
 
