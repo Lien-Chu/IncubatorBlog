@@ -4,7 +4,6 @@ linktitle: Change Database
 next: 
 prev: /post/register
 tags : [   
-    "ASP.NET Core MVC",
     "Database",
     "Tips"
 ]
