@@ -62,3 +62,5 @@ Join the .NET community to connect with other developers, learn from their exper
 *I pick up new things quickly and have a knack for logical thinking. I'm super curious and love to dive deep into things. When faced with tough challenges, I'm not afraid to roll up my sleeves and get to work with a practical approach.*
 
 *Despite the setbacks in life, I hope everyone to live life to the fullest and be happy every single day.*
+
+

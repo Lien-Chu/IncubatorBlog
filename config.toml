@@ -31,27 +31,11 @@ hasCJKLanguage = true
   author = "Vicky Kulumanga"
   SEOTitle = "It's a place to learning .Net | Incubator Blog"
   description = "Let us grow together"
-  
-  
-[params.social]
-  rss            = ""
-  email          = ""
+  rss            = "false"
+  email          = "vickykilumanga@gmail.com"
   #facebook      = ""
-  #googleplus    = ""
-  #twitter       = ""
-  linkedin       = ""
-  stackoverflow  = ""
+  linkedin       = "linkedin.com/in/lien-chu-huang-85a78b238"
   #instagram     = ""
   github         = "https://github.com/Lien-Chu"
-  wechat         = ""
-  #medium        = ""
-  #slack         = ""
-  #pinterest     = ""
-  #reddit        = ""
-  #gitlab        = ""
-  #mastodon      = ""
-  #keybase       = ""
-  #xing          = ""
-  #git           = ""
 
 
